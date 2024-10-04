@@ -1,0 +1,7 @@
+.env
+eticket-be/.env
+node_modules/
+.DS_Store
+eticket-be/.DS_Store
+eticket-be/src/.DS_Store
+.next/
