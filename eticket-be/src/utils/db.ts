@@ -7,7 +7,7 @@ const dbUrl: string = process.env.DB_URL || ''
 export const connectDb = async () => {
   try {
     await mongoose.connect(dbUrl).then(() => {
-      logger.info(`MongoDB connected!!!!!!!.`)
+      logger.info(`MongoDB connected!!!!!!!1.`)
     })
   } catch (err: any) {
     logger.error(err.message)
