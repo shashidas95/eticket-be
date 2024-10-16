@@ -1,4 +1,3 @@
-
 ------for backend dev---------
 yarn
 yarn run dev
@@ -8,4 +7,4 @@ yarn
 yarn run build
 yarn start
 
---- update
+--- updated
